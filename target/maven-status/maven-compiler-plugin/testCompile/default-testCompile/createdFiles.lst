@@ -1,0 +1,6 @@
+pageobjects\Homepage.class
+pageobjects\loginpage.class
+pageobjects\AccountRegistationpage.class
+pageobjects\Myaccountpage.class
+testbase\baseclass.class
+pageobjects\Basepage.class

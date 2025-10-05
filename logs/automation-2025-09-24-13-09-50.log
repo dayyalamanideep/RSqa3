@@ -1,0 +1,52 @@
+09:52:51.787 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+09:52:52.271 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+09:52:52.273 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+09:52:52.380 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+09:52:52.992 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+09:52:53.000 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+09:52:55.568 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+09:52:55.672 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+09:52:55.717 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+09:52:55.738 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+09:52:59.927 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+09:53:00.078 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+09:55:12.504 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+09:55:12.990 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+09:55:13.463 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+09:55:13.467 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+09:55:15.330 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+09:55:15.380 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+09:55:18.707 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:07:47.039 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:08:00.920 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:08:14.088 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:14:58.167 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:14:58.405 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:14:59.087 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:14:59.097 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:15:00.749 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:15:00.803 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+11:15:05.144 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:18:55.393 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:18:55.557 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:18:55.984 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:18:55.989 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:18:57.669 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:18:57.723 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+11:19:03.310 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:37:25.642 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:37:26.028 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:37:26.481 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:37:26.490 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:37:28.157 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:37:37.807 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+11:38:20.868 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:38:21.249 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:38:21.913 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:38:21.919 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:38:23.616 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:38:23.666 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+11:38:26.324 [main] INFO  testcases.Tc_002Accountlogin - Test execution started
+13:09:49.558 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+13:09:49.711 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+13:09:50.939 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link

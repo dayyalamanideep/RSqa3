@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Registrationflow]">
+  <test thread-count="5" name="Edgetest(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="Edge"/>
+    <classes>
+      <class name="testcases.Tc_001AccountRegistrationtest">
+        <methods>
+          <include name="Testregistration"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.Tc_001AccountRegistrationtest -->
+    </classes>
+  </test> <!-- Edgetest(failed) -->
+</suite> <!-- Failed suite [Registrationflow] -->

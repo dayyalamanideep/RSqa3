@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite">
+<groups>
+<run>
+<include name="sanity"/>
+<exclude name ="regression"/>// if you mention execlude suppose if there is regression and sanity in the group
+both stop executing
+</run>
+</groups>
+<test name ="test">
+<parameter name="os" value="Windows"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name = "testcases.Tc_001AccountRegistrationtest"/>
+<class name = "testcases.Tc_002Accountlogin"/>
+</classes>
+</test>
+</suite>

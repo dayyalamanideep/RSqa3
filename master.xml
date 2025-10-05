@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=' Master suite'>  
+<listeners>
+        <listener class-name="utilites.Extentreportmanager"/>
+    </listeners>
+<test name="test">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testcases.Tc_001AccountRegistrationtest"/> 
+       <class name="testcases.Tc_002Accountlogin"/> 
+       <class name="testcases.Tc_003Logindatadriventestcase"/> 
+    </classes>
+</test>
+
+</suite>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+
+    <Properties>
+        <Property name="basePath">./logs</Property>
+    </Properties>
+
+    <Appenders>
+
+        <!-- Console appender: logs to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- File appender: logs to a rolling file -->
+        <RollingFile name="File"
+                     fileName="${basePath}/automation.log"
+                     filePattern="${basePath}/automation-%d{yyyy-MM-dd-HH-mm-ss}.log">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <SizeBasedTriggeringPolicy size="5000"/>
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+        <!-- Root logger: write all logs to file (can enable console too if needed) -->
+        <Root level="debug">
+            <!-- Uncomment this if you also want logs in console -->
+            <!-- <AppenderRef ref="Console"/> -->
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+
+</Configuration>

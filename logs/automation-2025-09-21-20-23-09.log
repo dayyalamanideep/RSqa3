@@ -1,0 +1,51 @@
+11:25:04.451 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:25:04.802 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:25:05.672 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:25:05.675 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:25:07.696 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:43:44.835 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:43:44.998 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:43:45.439 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:43:45.442 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:43:46.883 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:43:46.929 [main] ERROR testcases.Tc_001AccountRegistrationtest - Test case failed
+11:43:46.930 [main] DEBUG testcases.Tc_001AccountRegistrationtest - Debug logs
+11:43:46.930 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+11:45:39.100 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+11:45:39.218 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+11:45:39.809 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+11:45:39.811 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+11:45:40.507 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+11:45:41.369 [main] ERROR testcases.Tc_001AccountRegistrationtest - Test case failed
+11:45:41.369 [main] DEBUG testcases.Tc_001AccountRegistrationtest - Debug logs
+11:45:41.369 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+12:31:45.538 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+12:31:45.933 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+12:31:46.352 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+12:31:46.359 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+12:31:47.778 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+12:31:47.826 [main] ERROR testcases.Tc_001AccountRegistrationtest - Test case failed
+12:31:47.826 [main] DEBUG testcases.Tc_001AccountRegistrationtest - Debug logs
+12:31:47.826 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+12:32:17.709 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+12:32:17.960 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+12:32:18.424 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+12:32:18.426 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+12:32:19.907 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+12:32:19.960 [main] ERROR testcases.Tc_001AccountRegistrationtest - Test case failed
+12:32:19.960 [main] DEBUG testcases.Tc_001AccountRegistrationtest - Debug logs
+12:32:19.960 [main] INFO  testcases.Tc_001AccountRegistrationtest - finished Tc_001AccountRegistrationtest
+12:36:23.909 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+12:36:24.088 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+12:36:24.561 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+12:36:24.566 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+12:36:25.385 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+20:18:09.666 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+20:18:37.346 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+20:20:00.151 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+20:22:00.509 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
+20:22:00.749 [main] INFO  testcases.Tc_001AccountRegistrationtest - Clicked on my account link
+20:22:05.135 [main] INFO  testcases.Tc_001AccountRegistrationtest - clicked on Registration link
+20:22:05.148 [main] INFO  testcases.Tc_001AccountRegistrationtest - providing the customer details
+20:22:07.875 [main] INFO  testcases.Tc_001AccountRegistrationtest - validating exetected message..
+20:23:09.028 [main] INFO  testcases.Tc_001AccountRegistrationtest - starting Tc_001AccountRegistrationtest
